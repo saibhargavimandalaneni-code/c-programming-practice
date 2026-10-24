@@ -26,3 +26,40 @@ Run the program and enter the marks when prompted.
 
 ## Learning Outcomes
 Practiced arrays, loops, input validation, arithmetic operations, and conditional logic.
+
+
+## Technologies Used
+- C Programming
+- Arrays
+- Loops
+- Conditional Statements
+- Standard Input and Output
+
+## How to Compile and Run
+
+1. Make sure GCC is installed on your computer.
+2. Open Command Prompt or a terminal in the project folder.
+3. Compile the program:
+
+```bash
+gcc student_marks.c -o student_marks
+```
+
+4. Run the program on Windows:
+
+```bash
+student_marks.exe
+```
+
+On Linux or macOS, run:
+
+```bash
+./student_marks
+```
+
+## Learning Outcomes
+- Practiced storing marks using arrays.
+- Learned to calculate total and average marks.
+- Practiced validating input and using conditional statements.
+- Learned to organize a C project on GitHub.
+
