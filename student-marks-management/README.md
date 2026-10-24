@@ -63,3 +63,10 @@ On Linux or macOS, run:
 - Practiced validating input and using conditional statements.
 - Learned to organize a C project on GitHub.
 
+  ## Sample Output
+
+![Student Marks Management Sample Output](https://github.com/user-attachments/assets/68e99d53-3959-4869-841b-4239e7ecfca7)
+
+The program calculates the total marks, average marks, and grade based on the five subject marks entered.
+
+
